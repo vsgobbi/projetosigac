@@ -1,0 +1,29 @@
+Mini tutorial git cli: 
+
+criando um novo repositório: git init
+
+obtenha um repositório: git clone /caminho/para/o/repositório
+
+adicionar & confirmar: git add "arquivo"
+		       git commit -m "comentarios da alteracao"
+
+enviando alterações: git push origin master
+(ou para qualquer ramo (branch) desejado)
+
+branches: 
+crie um novo branch: $ git checkout -b nomedobranch
+
+retornar para o master: $ git checkout master
+
+deletar um ramo: $ git branch -d nomedobranch
+
+enviar o ramo para estar disponível a outros remotamente: $ git push origin nomedobranch
+
+atualizar e mesclar repositorio: $ git pull
+
+mesclar alteracoes entre ramos e master: $ git merge nomedobranch
+(depois de alterar, e necessario marcar novamente com "$ git add nomedoarquivo")
+
+visualizar alteracoes antes de fazer um merge: $ git diff nomedobranch nomedobranchdestino
+
+
