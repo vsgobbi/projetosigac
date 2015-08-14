@@ -9,4 +9,4 @@ Exemplo de conflito:
 import random
 
 foo = ['a', 'b', 'c', 'd', 'e']
-print(random.choice(foo))
+print(random.choice(foo));
