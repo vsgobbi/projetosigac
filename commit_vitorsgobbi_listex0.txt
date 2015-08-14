@@ -2,5 +2,11 @@ Teste de commit para realização da ListEx 0'
 	
 Fazendo merge
 
-Editando novamente
+Editando novamente...
 
+Exemplo de conflito:
+
+import random
+
+foo = ['a', 'b', 'c', 'd', 'e']
+print(random.choice(foo))
