@@ -1,8 +1,6 @@
 Teste de commit para realização da ListEx 0'
 	
-Fazendo merge
-
-Editando novamente...
+Fazendo merge... Testando novamente!
 
 Exemplo de conflito:
 
