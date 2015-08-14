@@ -6,7 +6,8 @@ Editando novamente...
 
 Exemplo de conflito:
 
-import random
+import random import randrange
 
 foo = ['a', 'b', 'c', 'd', 'e']
-print(random.choice(foo))
+random_index = randrange(0,len(foo))
+print foo[random_index]
