@@ -26,4 +26,4 @@ mesclar alteracoes entre ramos e master: $ git merge nomedobranch
 
 visualizar alteracoes antes de fazer um merge: $ git diff nomedobranch nomedobranchdestino
 
-
+visualizar logs: $ git log
